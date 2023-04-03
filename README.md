@@ -12,4 +12,4 @@ Basic Outline of the Entire project:
 To increase the number displayed Change the 8 BIT input Data to value greater than this in the Digits Compute verilog file,
 and in Top Module
 
-Note: Maximum 4 digits value can be printed making the following changes
+Note: Maximum 4 digits value can be printed making the following changes. To enable all the digits change counter value and enable all anodes in the Anode_Controller
